@@ -10,7 +10,7 @@ int main(){
     marks[4]=83;
 
     for(i=0;i<5;i++){
-    printf("%d\n",marks[i]);
+    printf("%d\t",marks[i]);
     }
 
 
