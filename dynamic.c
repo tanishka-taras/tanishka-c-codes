@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<stdlib.h>
 int main(){
     int n,i,*p,sum=0;
     printf("enter a number of elements");
