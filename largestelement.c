@@ -17,7 +17,7 @@ if(a[j]>a[i]){
 }
 printf("print third largest element \n");
 
-    printf("%d\n",a[2]);
+    printf("%d\n",a[3]);
 }
 
 
