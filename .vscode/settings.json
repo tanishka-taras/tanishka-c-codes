@@ -1,5 +1,7 @@
 {
     "files.associations": {
-        "sorting": "c"
+        "sorting": "c",
+        "iostream": "cpp",
+        "ostream": "cpp"
     }
 }
