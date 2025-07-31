@@ -24,4 +24,10 @@ int main(){
     char string[]="tpointeach";
     int k=strlen(string);
     printf("length of string%d\n",k);
+
+
+    char s[20];
+    printf("enter the string");
+    scanf("%s\n",s);
+    printf("you entered %s\n",s);
 }
