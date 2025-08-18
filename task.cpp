@@ -14,6 +14,7 @@ student(){
 }
 };
 int main(){
+    
     int roll_no;
     string name;
     int marks;
